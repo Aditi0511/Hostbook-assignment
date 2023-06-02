@@ -1,0 +1,14 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    width: 100vw;
+    height: 9vh;
+    background-color: rgb(32, 32, 74);
+}
+
+.detail {
+    background-color: rgb(238, 238, 238);
+}
